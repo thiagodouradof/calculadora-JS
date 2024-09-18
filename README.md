@@ -12,7 +12,7 @@ Uma calculadora simples desenvolvida em JavaScript que pode ser executada direta
 ## Estrutura do Projeto
 
 - `index.html`: Arquivo HTML que carrega o script JavaScript.
-- `calculdora.js`: Arquivo JavaScript contendo o código da calculadora.
+- `calculadora.js`: Arquivo JavaScript contendo o código da calculadora.
 - `README.md`: Documentação do projeto.
 
 ## Como Usar
